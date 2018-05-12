@@ -1,0 +1,24 @@
+PODS:
+  - DynamicBlurView (2.0.2)
+  - PopupDialog (0.7.1):
+    - DynamicBlurView (~> 2.0)
+  - SwiftMessages (4.1.2)
+
+DEPENDENCIES:
+  - PopupDialog (~> 0.7)
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DynamicBlurView
+    - PopupDialog
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  DynamicBlurView: aa6db4defc6e537eb86fc5e58dd3991666178399
+  PopupDialog: 39598b7d41719f5c025b4b70e62728bae7734fef
+  SwiftMessages: d81f48c1f8b6bc1dbebdfffe11226f0344f937ca
+
+PODFILE CHECKSUM: 5bfde5b3f7c24b01a0aa52ccbf96ac21b156aeab
+
+COCOAPODS: 1.5.2
